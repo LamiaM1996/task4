@@ -1,0 +1,96 @@
+body {
+    background-color: rgba(121, 125, 127);
+    }
+    
+    #top {
+    background-color: rgb(51, 55, 66);
+    font-size: 40px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: "Lucida Console", Courier, monospace;
+    color:rgba(189, 191, 197);
+    margin: 40px;
+    padding: 1px;
+    }
+    
+    #down{
+    background-color: rgb(51, 55, 66);
+    color:rgba(189, 191, 197);
+    margin: 40px;
+    padding: 170px;
+    }
+    
+    #divS{
+    margin: 40px 740px;
+    }
+    #stop{
+    background-color: rgb(51, 55, 66);
+    border: none;
+    cursor: pointer;
+    }
+    
+    #divR{
+    margin-top: -350px;
+    margin-left:1300px;
+    }
+    #right {
+    border: none;
+    color:rgba(189, 191, 197);
+    padding: 40px;
+    text-align: center;
+    font-size: 60px;
+    border-radius: 12px;
+    font-family: "Times New Roman";
+    background-color: rgba(121, 125, 127);
+    cursor:pointer;
+    }
+    
+    #divL{
+    margin-top:-170px ;
+    margin-left:520px;
+    }
+     #left {
+      border: none;
+      color:rgba(189, 191, 197);
+      padding: 40px;
+      text-align: center;
+      font-size: 60px;
+      border-radius: 12px;
+      font-family: "Times New Roman";
+      background-color: rgba(121, 125, 127);
+      cursor: pointer;
+    }
+    
+    #divF{
+    margin-top:-520px;
+    margin-left:840px;
+    }
+     #forwards {
+      border: none;
+      color:rgba(189, 191, 197);
+      padding: 40px;
+      text-align: center;
+      font-size: 60px;
+      border-radius: 12px;
+      font-family: "Times New Roman";
+      background-color: rgba(121, 125, 127);
+      cursor: pointer;
+    }
+    
+    #divB{
+    margin-top: 580px;
+    margin-left:840px;
+    
+    }
+    #backwards {
+      border: none;
+      color:rgba(189, 191, 197);
+      padding: 40px;
+      text-align: center;
+      font-size: 60px;
+      border-radius: 12px;
+      font-family: "Times New Roman";
+      background-color: rgba(121, 125, 127);
+      cursor: pointer;
+    } 
